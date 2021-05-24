@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>Debt Now App - Appcast</title>
+        <title>Gharse</title>
         <item>
-            <title>Version 1.15.0</title>
-            <description>desc</description>
-            <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="1.15.0" sparkle:os="android" />
+            <title>Version 1.0.7</title>
+            <description>
+                With its rich culture and traditions, beauty is ingrained in the Pakistani identity. Barbers represent a vital part of this identity, helping to not just provide hairstyling and cutting, but deliver confidence and social interactions.
+                GharSe offers a marketplace to help deliver quality home-based barber services in Pakistan. It turns home-based barbers into micro-entrepreneurs by connecting them with local clientele
+            </description>
+            <pubDate>SMay 18, 2021 00:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=gharse.beehive" sparkle:version="1.15.0" sparkle:os="android" />
         </item>
     </channel>
 </rss>
